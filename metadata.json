@@ -1,0 +1,6 @@
+{
+  "name": "नदिया तीर कछारे मेरा गाँव रे",
+  "description": "पढ़ें और सुनें — मूल स्वरूप में",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
